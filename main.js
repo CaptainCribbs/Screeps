@@ -5,3 +5,4 @@ module.exports.loop = function () {
         creep.moveTo(sources[0]);
     }
 }
+
